@@ -11,3 +11,6 @@ Foi realizada a geração de um discurso com 2 IAs. O conteúdo em texto foi ger
 
 ## 🧐 Processo de Criação
 Com a ferramenta ChatGPT, utilizado um prompt para a geração do conteúdo, o qual foi traduzido para o inglês americano e posteriormente utilizada a IA da ElevenLabs para a criação da voz.
+
+## 🧐 Resultado
+O resultado do discurso de voz está descrito neste repositório!
